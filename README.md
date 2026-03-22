@@ -6,7 +6,7 @@
 
 | 元の GIF / Original GIF | Minecraft で再生 / Playback in Minecraft |
 |:------------------------:|:----------------------------------------:|
-| <img src="images/hula_loop_octodex03.gif" width="300"> | <!-- TODO: Minecraftスクリーンショット/GIFを追加 --> *画像は後から追加 / Image to be added* |
+| <img src="images/hula_loop_octodex03.gif" width="300"> | <img src="images/octcat_minecraft.gif" width="400"> |
 
 [![Octocat Animation Demo](https://img.youtube.com/vi/xLPGuHS0mcg/0.jpg)](https://youtu.be/xLPGuHS0mcg)
 
